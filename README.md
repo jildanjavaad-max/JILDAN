@@ -2,3 +2,5 @@
 NDANZ
 MIN
 LA
+KAY
+SA
